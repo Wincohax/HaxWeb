@@ -4,8 +4,8 @@ function App() {
 
   return (
    <>
-   <h1>I'm Wincohax yeaaaah</h1>
-   <h2>Work in progress</h2>
+   <h1>I'm Wincohax</h1>
+   <h2>Work in progress...</h2>
    </>
   )
 }
